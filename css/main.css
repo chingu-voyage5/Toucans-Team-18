@@ -270,11 +270,6 @@ textarea {
 	background-color: #40596b;
 }
 
-nav {
-	margin: 1.5em 0 0 5%;
-	margin: 0 auto;
-}
-
 .site-header ul li {
 	display: inline-block;
 	padding: 0 1.4em 0 0;
@@ -291,4 +286,9 @@ nav {
 
 .site-header ul li a:hover {
 	color: hsl(0, 0%, 100%)
+}
+
+nav {
+	margin: 1.5em 0 0 5%;
+	margin: 0 auto;
 }
